@@ -1,7 +1,7 @@
 .idea
-.setting
+.settings
 .vscode
 target
 .classpath
 .project
-LearnJava.iml
+LearningJava.iml
